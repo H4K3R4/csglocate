@@ -1,4 +1,4 @@
-starting program
+instruction
 1)cd locate/
 2)chmod 777 *
 3)./install.sh
